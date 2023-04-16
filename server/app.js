@@ -9,7 +9,7 @@ const app = express()
 app.use(express.json())
 
 // mongodb
-const dbURI = "mongodb+srv://youtwigrif:hero20061411@cluster0.5eomgqa.mongodb.net/?retryWrites=true&w=majority"
+const dbURI = "your_mongodb_link"
 
 // escape from cors policy problems 
 app.use(cors())
