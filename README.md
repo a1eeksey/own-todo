@@ -4,7 +4,9 @@ The application provides users with the ability to create, update, and delete ta
 To ensure data security, the application incorporates user authentication. Users can register an account, log in, and access their personalized todo-lists. This feature allows for individual task management and keeps users' data private.
 The integration of MongoDB as the database ensures seamless data storage and retrieval. Tasks are stored in a structured format, enabling efficient querying and quick access to task information.
 
-### firstly go to server/app.js file and paste your mongodb link there
+#
+firstly go to server/app.js file and paste your mongodb link there
+#
 
 ## server
 ```
